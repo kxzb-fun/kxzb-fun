@@ -8,4 +8,4 @@
 
 🌱 I’m currently learning Golang
 
-📫 Feel free to reach out to me on wechat c3VuZGF5X2V2ZXI= (base64)
+📫 Feel free to reach out to me on wechat sunday_ever
